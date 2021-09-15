@@ -6,8 +6,8 @@ import PackageDescription
 let package = Package(
     name: "CocoaLumberjack",
     platforms: [
-        .iOS(.v9),
-        .macOS(.v10_10),
+        .iOS(.v13),
+        .macOS(.v11),
         .watchOS(.v3),
         .tvOS(.v9),
     ],
